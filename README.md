@@ -1,4 +1,4 @@
-# ODD2023-Datascience-Ex-04
+![Screenshot 2023-10-07 091644](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/81be110c-10bf-4d80-9a40-17210863d3b9)![Screenshot 2023-10-07 091644](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/60bc95c1-c767-453e-86a8-90876c8be8de)# ODD2023-Datascience-Ex-04
 ### AIM
 To perform Multivariate EDA on the given data set.
 
@@ -71,6 +71,7 @@ sb.scatterplot(x = 'Glucose',y='Age',data = df)
 sb.heatmap(df.corr(),annot = True)
 ```
 ## Superstore.csv
+```
 import pandas as pd
 import seaborn as sns
 import numpy as np
@@ -91,3 +92,23 @@ sb.boxplot(data=df['Sales'])
 sb.scatterplot(x = 'Postal Code',y='Sales',data = df)
 sb.scatterplot(x = 'Row ID',y='Sales',data = df)
 sb.heatmap(df.corr(),annot = True)
+```
+### OUTPUT
+## Diabetes.csv
+Before DataCleaning
+![Screenshot 2023-10-07 091240](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/c07572be-0a75-400f-b486-d721f6b34cb4)
+After DataCleaning
+![Screenshot 2023-10-07 091558](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/844b76a5-040a-45e0-a933-89c43b2c8fe0)
+![Screenshot 2023-10-07 091612](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/83ac872b-52a4-42c2-abec-28683c9f47d0)
+![Screenshot 2023-10-07 091630](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/50a407d9-618f-4b66-8136-273b065da6a9)
+![Screenshot 2023-10-07 091644](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/75ec8f88-0528-4dfd-82b2-cdec949241e3)
+
+# HeatMap
+![Screenshot 2023-10-07 091658](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/2ef3e8cb-74ae-4790-9301-77ce644dc273)
+
+## Superstore.csv
+BeforeDataCleaning
+![download](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/1581c43e-1702-459c-b35e-ad61e1ee08dd)
+
+
+
