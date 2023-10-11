@@ -1,4 +1,3 @@
-![Screenshot 2023-10-07 091644](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/81be110c-10bf-4d80-9a40-17210863d3b9)![Screenshot 2023-10-07 091644](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/60bc95c1-c767-453e-86a8-90876c8be8de)# ODD2023-Datascience-Ex-04
 ### AIM
 To perform Multivariate EDA on the given data set.
 
@@ -95,9 +94,9 @@ sb.heatmap(df.corr(),annot = True)
 ```
 ### OUTPUT
 ## Diabetes.csv
-Before DataCleaning
+## Before DataCleaning
 ![Screenshot 2023-10-07 091240](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/c07572be-0a75-400f-b486-d721f6b34cb4)
-After DataCleaning
+## After DataCleaning
 ![Screenshot 2023-10-07 091558](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/844b76a5-040a-45e0-a933-89c43b2c8fe0)
 ![Screenshot 2023-10-07 091612](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/83ac872b-52a4-42c2-abec-28683c9f47d0)
 ![Screenshot 2023-10-07 091630](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/50a407d9-618f-4b66-8136-273b065da6a9)
@@ -107,8 +106,17 @@ After DataCleaning
 ![Screenshot 2023-10-07 091658](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/2ef3e8cb-74ae-4790-9301-77ce644dc273)
 
 ## Superstore.csv
-BeforeDataCleaning
+## BeforeDataCleaning
 ![download](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/1581c43e-1702-459c-b35e-ad61e1ee08dd)
 
+## AfterDataCleaning
+![download](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/871c76c5-094e-4b04-8f42-b44889f3ae02)
+![download](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/3656c885-a48b-49dd-999a-ff33103a3cdb)
+![download](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/fa9e56a6-8bcb-46ac-b8bf-7e6d50d7cd9e)
 
+# HeatMap
+![download](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-04/assets/119393540/3c93372b-ef1d-4492-8a55-99af0bd62797)
+
+### RESULT
+Thus we have read the given data and performed the multivariate analysis with different types of plots.
 
